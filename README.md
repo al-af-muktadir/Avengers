@@ -209,8 +209,8 @@ For bundle sizes `[1, 3, 4]` and a group size of `6`, the optimal result is two 
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd doomsday-ready
+git clone https://github.com/al-af-muktadir/Avengers.git
+cd Avengers
 ```
 
 Create a root `.env` file:
